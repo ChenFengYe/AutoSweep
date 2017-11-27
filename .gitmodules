@@ -25,3 +25,21 @@
 [submodule "AutoSweep_MaskRCNN"]
 	path = AutoSweep_MaskRCNN
 	url = https://github.com/ChenFengYe/AutoSweep_MaskRCNN
+[submodule "AutoSweep_DCN"]
+	path = AutoSweep_DCN
+	url = https://github.com/ChenFengYe/AutoSweep_DCN
+[submodule "AutoSweep_GeonetEnd2End"]
+	path = AutoSweep_GeonetEnd2End
+	url = https://github.com/ChenFengYe/AutoSweep_GeonetEnd2End
+[submodule "AutoSweep_OneKeyGeonet"]
+	path = AutoSweep_OneKeyGeonet
+	url = https://github.com/ChenFengYe/AutoSweep_OneKeyGeonet
+[submodule "AutoSweep_FCIS"]
+	path = AutoSweep_FCIS
+	url = https://github.com/ChenFengYe/AutoSweep_FCIS
+[submodule "AutoSweep_AxisClassifier"]
+	path = AutoSweep_AxisClassifier
+	url = https://github.com/ChenFengYe/AutoSweep_AxisClassifier
+[submodule "AutoSweep_CircleReconstruction"]
+	path = AutoSweep_CircleReconstruction
+	url = https://github.com/ChenFengYe/AutoSweep_CircleReconstruction

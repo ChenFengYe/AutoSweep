@@ -22,3 +22,6 @@
 [submodule "AnnatationTool"]
 	path = AnnatationTool
 	url = https://github.com/ChenFengYe/AutoSweep_AnnatationTool
+[submodule "AutoSweep_MaskRCNN"]
+	path = AutoSweep_MaskRCNN
+	url = https://github.com/ChenFengYe/AutoSweep_MaskRCNN

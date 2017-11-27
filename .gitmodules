@@ -1,27 +1,3 @@
-[submodule "MaskRCNN"]
-	path = MaskRCNN
-	url = https://github.com/ChenFengYe/AutoSweep_MaskRCNN 
-[submodule "DCN"]
-	path = DCN
-	url = https://github.com/ChenFengYe/AutoSweep_DCN
-[submodule "GeonetEnd2End "]
-	path = GeonetEnd2End 
-	url = https://github.com/ChenFengYe/AutoSweep_GeonetEnd2End 
-[submodule "OneKeyGeonet"]
-	path = OneKeyGeonet
-	url = https://github.com/ChenFengYe/AutoSweep_OneKeyGeonet
-[submodule "FCIS"]
-	path = FCIS
-	url = https://github.com/ChenFengYe/AutoSweep_FCIS
-[submodule "AxisClassifier"]
-	path = AxisClassifier
-	url = https://github.com/ChenFengYe/AutoSweep_AxisClassifier
-[submodule "CircleReconstruction"]
-	path = CircleReconstruction
-	url = https://github.com/ChenFengYe/AutoSweep_CircleReconstruction
-[submodule "AnnatationTool"]
-	path = AnnatationTool
-	url = https://github.com/ChenFengYe/AutoSweep_AnnatationTool
 [submodule "AutoSweep_MaskRCNN"]
 	path = AutoSweep_MaskRCNN
 	url = https://github.com/ChenFengYe/AutoSweep_MaskRCNN
@@ -43,3 +19,9 @@
 [submodule "AutoSweep_CircleReconstruction"]
 	path = AutoSweep_CircleReconstruction
 	url = https://github.com/ChenFengYe/AutoSweep_CircleReconstruction
+[submodule "AutoSweepMatl-Deeplab"]
+	path = AutoSweepMatl-Deeplab
+	url = https://github.com/ChenFengYe/AutoSweepMatl-Deeplab
+[submodule "AutoSweepMatl-FasterRCNN"]
+	path = AutoSweepMatl-FasterRCNN
+	url = https://github.com/ChenFengYe/AutoSweepMatl-FasterRCNN

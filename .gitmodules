@@ -25,3 +25,6 @@
 [submodule "AutoSweepMatl-FasterRCNN"]
 	path = AutoSweepMatl-FasterRCNN
 	url = https://github.com/ChenFengYe/AutoSweepMatl-FasterRCNN
+[submodule "AutoSweep_AnnatationTool"]
+	path = AutoSweep_AnnatationTool
+	url = https://github.com/ChenFengYe/AutoSweep_AnnatationTool

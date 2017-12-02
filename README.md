@@ -4,6 +4,8 @@ This is root folder for all parts of AutoSweep. There are several modules like b
 - AutoSweepMatl
 	- **FasterRCNN**: we use deeplab for detection task at first. Finally, we use instances segmentation works.  
 	- **Deeplab**: we use deeplab for segementaion task at first. However, we find that this is not suit for instance task.
+	- **[PointSetGeneration](https://github.com/fanhqme/PointSetGeneration)**：Code for "A Point Set Generation Network for 3D Object Reconstruction from a Single Image".
+	- **[3D-R2N2](https://github.com/chrischoy/3D-R2N2)**:Single/multi view image(s) to voxel reconstruction using a recurrent neural network.
 - AutoSweep
 	- **FCIS**:we modify [fcis](https://github.com/msracver/FCIS) to be suit for AutoSweep dataset.
 	- **MaskRCNN**:we modify [maskrcnn](https://github.com/TuSimple/mx-maskrcnn) to be suit for AutoSweep dataset.

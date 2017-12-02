@@ -28,3 +28,6 @@
 [submodule "AutoSweep_AnnatationTool"]
 	path = AutoSweep_AnnatationTool
 	url = https://github.com/ChenFengYe/AutoSweep_AnnatationTool
+[submodule "AutoSweepMatl-PointSetGeneration"]
+	path = AutoSweepMatl-PointSetGeneration
+	url = https://github.com/fanhqme/PointSetGeneration.git

@@ -31,3 +31,6 @@
 [submodule "AutoSweepMatl-PointSetGeneration"]
 	path = AutoSweepMatl-PointSetGeneration
 	url = https://github.com/fanhqme/PointSetGeneration.git
+[submodule "AutoSweepMatl-3D-R2N2"]
+	path = AutoSweepMatl-3D-R2N2
+	url = https://github.com/chrischoy/3D-R2N2.git

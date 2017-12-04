@@ -16,4 +16,4 @@ This is root folder for all parts of AutoSweep. There are several modules like b
 	- **CircleReconstruction**: C++ version of Profile fitting.
 	- **AnnatationTool**: The annatiation tool for AutoSweep dataset.
 - Unity Part:
-	- **ObjectSnap**: **wait to upload**
+	- **ObjectSnap**: Modeling Part of AutoSweep Project based on Unity.

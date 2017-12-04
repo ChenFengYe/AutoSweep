@@ -34,3 +34,6 @@
 [submodule "AutoSweepMatl-3D-R2N2"]
 	path = AutoSweepMatl-3D-R2N2
 	url = https://github.com/chrischoy/3D-R2N2.git
+[submodule "AutoSweep_ObjectSnapping"]
+	path = AutoSweep_ObjectSnapping
+	url = https://github.com/ChenFengYe/AutoSweep_ObjectSnapping.git

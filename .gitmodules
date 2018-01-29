@@ -37,3 +37,6 @@
 [submodule "AutoSweep_ObjectSnapping"]
 	path = AutoSweep_ObjectSnapping
 	url = https://github.com/ChenFengYe/AutoSweep_ObjectSnapping.git
+[submodule "AutoSweep_Dataset"]
+	path = AutoSweep_Dataset
+	url = https://github.com/ChenFengYe/AutoSweep_Dataset.git

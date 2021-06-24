@@ -5,9 +5,10 @@
 
 This repository contains the official implementation for the paper: [AutoSweep: Recovering 3D Editable Objects from a Single Photograph (TVCG 2018)](https://arxiv.org/abs/2005.13312). Our work
 is capable of automatically generating 3D models from a single photograph which can then be used for editing and rearranging.<br>
-<center class="half">
-    <img src="./image/video.gif" width="150"/>    <img src="./image/AutoSweep_tesar.jpg" width="234"/>
-</center>
+<p float="left">
+  <img src="./image/video.gif" width="251" />
+  <img src="./image/AutoSweep_tesar.jpg" width="394" /> 
+</p>
 <br>
 
 ## Abstract

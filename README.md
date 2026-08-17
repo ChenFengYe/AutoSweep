@@ -1,3 +1,5 @@
+
+
 # AutoSweep: Recovering 3D Editable Objects from a Single Photograph
 ### [ProjectPage](https://chenxin.tech/AutoSweep.html) | [Paper](https://arxiv.org/abs/2005.13312) | [Video](xxxx) |  [Dataset](https://drive.google.com/file/d/1O62Tp-2pPncuKD8oKbkP_WZJcbj-f_ik/view?usp=sharing)
 [Xin Chen](https://chenxin.tech/), [Yuwei Li](http://liyuwei.cc/), [Xi Luo](http://luoxi.tech/), [Tianjia Shao](http://tianjiashao.com/), [Jingyi Yu](http://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/), [Kun Zhou](http://kunzhou.net/), [Youyi Zheng](http://youyizheng.net/).</br>
@@ -18,6 +20,8 @@ This paper presents a fully automatic framework for extracting editable 3D objec
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 All material is made available under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and **indicating any changes** that you've made.
+
+Adapted material must be shared under the same license (CC BY-NC-SA 4.0).
 
 ## Quick Start
 This is root folder for all parts of AutoSweep. There are several modules in the below:
